@@ -1,0 +1,77 @@
+body{
+    background-image: url(background.jpg); 
+    background-size: cover; 
+}
+
+.sfondo{
+    background-color: rgba(10,10,10,0.5);
+    width: 1200px;
+    height: 900px;
+    margin: 50px auto;
+    border-radius: 5%;
+}
+
+.sfondo2{   
+    width: 800px;
+    height: 700px;
+    margin: auto;
+}
+
+img{ 
+    width: 300px; 
+    height: auto;
+    margin: auto;
+    display: list-item;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+h1{
+    text-align: center;
+    color: greenyellow;
+}
+
+.pulsanti{
+    text-align: center;
+    background-color: greenyellow;
+    height: 30px;
+    width: 900px;
+    padding-top: 10px;
+    
+}
+.prodotto{
+    color: white;
+}
+
+h3{
+    display: inline-block;
+    font-size: 25px;
+    padding-top: 0px;
+    
+}
+
+p{
+    margin-top: 0;
+}
+
+#ricarica1{
+    background-color: lightyellow;
+    width: 250px;
+    height: 30px;
+    border-radius: 7px;
+}
+
+#ricarica2{
+    background-color: greenyellow;
+    width: 450px;
+    height: 30px;
+    border-radius: 7px;
+}
+
+#ricarica3{
+    background-color: brown;
+    width: 150px;
+    height: 30px;
+    border-radius: 7px;
+}
+
